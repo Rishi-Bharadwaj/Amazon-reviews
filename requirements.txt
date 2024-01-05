@@ -1,0 +1,12 @@
+####################
+#Basic packages
+numpy
+jupyter
+matplotlib
+pandas
+scikit-learn
+###############################
+python=3.10.5
+gzip
+tensorflow<2.11
+###############################
