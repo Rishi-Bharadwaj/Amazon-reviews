@@ -9,3 +9,7 @@ Initially I used tensorflow's inbuilt text vectorization to embed the reviews in
 Later I used pre-trained bert embeddings to vectorize my text. I tried this on the complete reviews and their summaries separately. I also attempted to visualize the embeddings in a scatter plot using sklearns TSNE.
 
 The dataset I used is a collection of Amazon customer reviews and review summaries of products in their video game category. It can be found [here](https://nijianmo.github.io/amazon/index.html) 
+## Model Experiments:
+- Non-transformer based model on full review text
+- Transformer based model on full review text
+- Transformer based model on review summary text
