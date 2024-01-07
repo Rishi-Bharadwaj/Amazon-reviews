@@ -13,3 +13,4 @@ The dataset I used is a collection of Amazon customer reviews and review summari
 - Non-transformer based model on full review text
 - Transformer based model on full review text
 - Transformer based model on review summary text
+- Visualization of bert embeddings using TSNE
